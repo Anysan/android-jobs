@@ -119,6 +119,7 @@ Darma | [Android 开发](./深圳--JD/Darma Android.md) | 高薪、高奖金、�
 极飞 | [Android 开发](./广州--JD/极飞 Android.md) | 民用无人飞机研发制造 | [xieanping@xair.cn](mailto:xieanping@xair.cn "有效期至 2015-12-31")
 际讯 | [Android 开发](./广州--JD/际讯.md) | 足球 高薪 成长 | [huangzhilian@jetsun6383.com](huangzhilian@jetsun6383.com "有效期至 2015-12-31")
 超级课程表 | [Android 开发](./广州--JD/超级课程表 Android.md) | 高薪、扁平管理、弹性时间 | [Quennel@myfriday.cn](Quennel@myfriday.cn "有效期至 2015-12-31")
+华阅 | [Android 开发](./广州--JD/华阅 Android.md) | 高薪、弹性时间 | [hr@dooland.net](hr@dooland.net "有效期至 2015-12-31")
 
 ####Zhu Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
